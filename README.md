@@ -5,11 +5,11 @@
 ---
 Progress by pattern.
  
-**Progress: 0 / 150**
+**Progress: 1 / 150**
  
 | Pattern | Done |
 |---|---|
-| Arrays & Hashing | 0 / 9 |
+| Arrays & Hashing | 1 / 9 |
 | Two Pointers | 0 / 5 |
 | Sliding Window | 0 / 6 |
 | Stack | 0 / 6 |
